@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.is-done {
+  text-decoration: line-through;
+}
+
+.ant-card {
+  margin: .5rem 0;
+}
